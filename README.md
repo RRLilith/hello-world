@@ -1,2 +1,3 @@
 # hello-world
-this is a practice space for me 
+This is a practice space for me. 
+I'm just beginning The Zero to Mastery in Web Development! This commit is creating a branch practice.
